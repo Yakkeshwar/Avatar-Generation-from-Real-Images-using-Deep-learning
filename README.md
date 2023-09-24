@@ -1,16 +1,14 @@
 # Avatar-Generation-from-Real-Images-using-Deep-learning
-# Image to Cartoon Python OpenCV Machine Learning
+# Image to Avatar Python OpenCV Machine Learning
 
-![GitHub](https://img.shields.io/github/license/your-username/image-to-cartoon)
-![GitHub](https://img.shields.io/github/stars/your-username/image-to-cartoon?style=social)
-![GitHub](https://img.shields.io/github/forks/your-username/image-to-cartoon?style=social)
+
 
 ## Overview
-This is a Python web app project that allows you to convert any image into a cartoon using OpenCV and machine learning. It's a simple and basic-level project suitable for learning purposes. You can also modify this system to develop a more advanced project tailored to your requirements.
+This is a Python web app project that allows you to convert any image into a Avatar using OpenCV and machine learning. It's a simple and basic-level project suitable for learning purposes. You can also modify this system to develop a more advanced project tailored to your requirements.
 
 ## Features
-- Directly select an image for conversion to a cartoon.
-- Transform images into captivating cartoons.
+- Directly select an image for conversion to a Avatar.
+- Transform images into captivating Avatars.
 - Easy-to-use web application.
 
 ## Required Modules
@@ -28,9 +26,9 @@ This is a Python web app project that allows you to convert any image into a car
 3. Understand how an image is stored.
 4. Transform the image to grayscale.
 5. Smoothen the grayscale image.
-6. Retrieve the edges of the image.
+6. Retrieve the edges of the  image.
 7. Prepare a mask image.
-8. Apply a Cartoon Effect.
+8. Apply a Avatar Effect.
 9. Plot all the transitions together.
 10. Implement functionality for save or download buttons.
 
@@ -42,21 +40,17 @@ This is a Python web app project that allows you to convert any image into a car
 - CUDA version 10.1
 - Operating System: Windows 10
 
-## Algorithmia For Video Convert
-We used the Serverless AI Layer product of Algorithmia for video inference. To learn more about how to deploy your model in Algorithmia, check here - [Algorithmia Developers](https://algorithmia.com/developers)
-
-## Download Source Code
-[Download Source Code](link-to-source-code)
-
-## Categories
-- Machine Learning Projects With Source Code
-- Python Projects
-
+### Run
+```
+git clone https://github.com/Alfo5123/Connect4.git
+cd Connect4
+python game.py
+```
 ## Tags
-- Best free image to cartoon converter
-- Cartoon image OpenCV
+- Best free image to Avatar converter
+- Avatar image OpenCV
 - Cartoonify an image with OpenCV in Python
-- Convert image to cartoon Python
-- Image to cartoon converter app
+- Convert image to Avatar Python
+- Image to Avatar converter app
 
-Feel free to contribute and make this project even better!
+
