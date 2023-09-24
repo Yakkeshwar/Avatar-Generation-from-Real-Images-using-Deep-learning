@@ -42,9 +42,9 @@ This is a Python web app project that allows you to convert any image into a Ava
 
 ### Run
 ```
-git clone [https://github.com/Alfo5123/Connect4.git](https://github.com/Alfo5123/Connect4.git)
-cd Connect4
-python game.py
+git clone (https://github.com/Alfo5123/Connect4.git)
+
+python app.py
 ```
 ## Tags
 - Best free image to Avatar converter
