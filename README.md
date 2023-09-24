@@ -1,5 +1,5 @@
 # Avatar-Generation-from-Real-Images-using-Deep-learning
-# Image to Avatar Python OpenCV Machine Learning
+# Image to Avatar 
 
 
 
